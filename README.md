@@ -39,4 +39,5 @@ It helped me develop basic cloud management, remote access, troubleshooting, and
 
 ## 💼 IT Support Relevance
 
-y
+Gained hands-on experience in cloud infrastructure, Windows and Linux remote access, troubleshooting, and technical documentation.
+
