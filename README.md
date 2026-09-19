@@ -20,7 +20,6 @@ It helped me develop basic cloud management, remote access, troubleshooting, and
 
 ### EC2 Vertical Scaling
 - task1-01verticalscaling.png
-- 1. EC2 Instance – Vertical Scaling
 This screenshot shows the AWS EC2 instance summary, including the instance ID, public IPv4 address, private IP address, running status, and instance type. It provides evidence of the EC2 instance configuration.
 
 - task1-02-verticalscaling.png
